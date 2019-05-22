@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+log.html
+main.txt
+output.xml
+report.html
 
 # Distribution / packaging
 .Python
