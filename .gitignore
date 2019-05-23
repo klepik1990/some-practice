@@ -2,13 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.pyc
 # C extensions
 *.so
-log.html
+*.html
 main.txt
-output.xml
-report.html
+*.xml
+
 
 # Distribution / packaging
 .Python
