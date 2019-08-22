@@ -1,6 +1,6 @@
 *** Settings ***
 Test Timeout    2 minutes
-Library         Compare_animals.py
+Library         compare_animals.py
 
 *** Test Cases ***
 Default Timeout
